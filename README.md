@@ -1,2 +1,2 @@
 # TypeScript-Study-Demo
-学习TypeScript的demo联系
+学习TypeScript的demo练习
